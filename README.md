@@ -1,5 +1,5 @@
 # 3c.CREATION FOR FILE TRANSFER USING TCP SOCKETS
-NAME:DEEPIKA P\
+NAME:DEEPIKA P
 REFERENCE NO:212223240024
 ## AIM
 To write a python program for creating File Transfer using TCP Sockets Links
@@ -59,6 +59,7 @@ while True:
 ## OUPUT
 ### CLIENT
 ![310377744-396ffe7b-e40b-496d-9f4e-feb5b2fbc76b](https://github.com/nivetharajaa/3c.FILE_TRANSFER_USING_TCP_SOCKETS/assets/120543388/96473afa-18d0-4295-a365-668d074756ad)
+
 
 ### SERVER
 ![310377797-e9b63c37-6b87-4b59-b277-fa5d3ba1ca0e](https://github.com/nivetharajaa/3c.FILE_TRANSFER_USING_TCP_SOCKETS/assets/120543388/9295a11c-3e23-4cf1-a8bb-b0b11078dc30)
